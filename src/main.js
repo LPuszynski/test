@@ -1,5 +1,5 @@
 const hello = () => {
-  console.log("kevin");
+  console.log("tg flav");
 }
 
 const foo = (i) => {
